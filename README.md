@@ -1,2 +1,2 @@
-# api2
-api php
+# api
+Do wyciagania danych z bazy mysql 
